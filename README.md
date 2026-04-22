@@ -236,14 +236,3 @@ For **Minor** accidents, the nearest general hospital is preferred.
 
 ---
 
-## 📝 Project Team
-
-| Name | Roll No |
-|------|---------|
-| MD. Hafsa | 23H55A1204 |
-| P. Vamshi Krishna | 23H55A1205 |
-| P. Meena | 23H55A1206 |
-
-**Guide:** Dr. A. Shiva Kumar (Associate Professor)  
-**Institution:** CMR College of Engineering & Technology, Hyderabad  
-**Year:** 2025–2026
