@@ -1,0 +1,39 @@
+{
+  "model": "ResNet-18",
+  "overall_accuracy": 0.7746,
+  "macro_f1": 0.7688,
+  "per_class": {
+    "Minor": {
+      "precision": 0.7778,
+      "recall": 0.875,
+      "f1": 0.8235
+    },
+    "Moderate": {
+      "precision": 0.7,
+      "recall": 0.6667,
+      "f1": 0.6829
+    },
+    "Severe": {
+      "precision": 0.8333,
+      "recall": 0.7692,
+      "f1": 0.8
+    }
+  },
+  "confusion_matrix": [
+    [
+      21,
+      1,
+      2
+    ],
+    [
+      5,
+      14,
+      2
+    ],
+    [
+      1,
+      5,
+      20
+    ]
+  ]
+}
